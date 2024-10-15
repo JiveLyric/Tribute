@@ -1,0 +1,72 @@
+body {
+	font-family: 'georgia';
+	background-color: black;
+	margin: 30px;
+	padding: 75px;
+}
+
+h1 {
+	color: turquoise;
+	text-align: center;
+	font-size: 30px;
+}
+
+h2 {
+	color: turquoise;
+	text-align: center;
+	font-size: 25px;
+}
+
+p {
+	color: white;
+	font-size: 20px;
+    text-align: center;
+}
+
+.summary {
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+#quote {
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 75px;
+}
+
+div {
+	text-align: center;
+	margin: 20px;
+	width: 0 auto;
+	padding: 30px;
+}
+
+span {
+	color: mediumturquoise;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+ul {
+	color:mediumturquoise;
+	font-size: 20px;
+	text-align: center;
+}
+
+Img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:300px;
+    height:300px;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+a {
+	margin-left: 100px;
+	color: paleturquoise;
+}
